@@ -1,1 +1,3 @@
 # ML-Revolution-Healthcare
+
+The project, 'ML Revolution in Healthcare: The Diabetes Risk Prediction Challenge,' involves leveraging machine learning to predict diabetes risk categories using the BRFSS Survey Data. The process begins with exploring and cleaning the dataset, addressing complexities like class imbalance. It includes transforming data, handling outliers, splitting data for training, and selecting a model. The models, including Logistic Regression, Decision Tree, Random Forest, KNN, XGBoost, and AdaBoost, undergo evaluation based on F1 scores. After model selection, training, and hyperparameter tuning, predictions are made on the test data. Post-prediction, the results are exported for further analysis and impact on healthcare risk assessment.
